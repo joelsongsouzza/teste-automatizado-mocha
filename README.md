@@ -1,1 +1,1 @@
-"# teste-automatizado-mocha" 
+# Testes automatizados utilizando o Mocha e Nock.
